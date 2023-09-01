@@ -617,7 +617,8 @@ input[type=submit] {
 
 input[type=submit]:hover {
     font-family: 'Bebas Neue', cursive;
-    background-color: #FF00F5;
+    background-color: #690066;
+    color: white;
 }
 
 .name-form {
