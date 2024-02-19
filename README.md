@@ -29,4 +29,45 @@
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffff00&height=120&section=footer"/>
 
-<h1>kenny is lelijk</h1>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Kalam&family=Montserrat&family=Protest+Strike&display=swap"
+        rel="stylesheet">
+</head>
+
+<body>
+    <nav>
+        <div class="nav-bar-main">
+            <img class="logo-img" src="images/logo witte rand.png">
+        </div>
+    </nav>
+    <div class="container">
+        <div class="feedback-question-container">
+            <h1 class="feedback-question">Wat vond je van puzzels/spellen in de Escape Room?</h1>
+        </div>
+        <div class="button-group">
+            <button class="button">
+                Leuk
+            </button>
+            <button class="button">
+                Niet Leuk
+            </button>
+        </div>
+        <div class="feedback-question-container">
+            <h1 class="feedback-question">Wat vond je van puzzels/spellen in de Escape Room?</h1>
+        </div>
+    </div>
+</body>
+
+</html>
