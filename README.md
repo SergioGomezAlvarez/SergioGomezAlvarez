@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FFFF00&center=true&vCenter=true&width=435&lines=Hello%2C+My+Name+Is+Sel%C3%A7uk;I+Am+Studying+Software+Development)](https://git.io/typing-svg)
  
 <div align="center">
-<img width="auto" height="50%" src="https://github-readme-stats.vercel.app/api?username=Selcuk024&show_icons=true&count_private=true&title_color=ffff00&icon_color=ffff00&text_color=fff&bg_color=0d1117&hide_border=true" /> 
+<img width="auto" height="50%" src="https://github-readme-stats.vercel.app/api?username=hjuewfhjchjfedfewfefwef&show_icons=true&count_private=true&title_color=ffff00&icon_color=ffff00&text_color=fff&bg_color=0d1117&hide_border=true" /> 
 <img width="auto" height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Selcuk024&layout=compact&title_color=ffff00&text_color=fff&bg_color=0d1117&hide_border=true" />
 <a href="http://www.github.com/Selcuk024"><img src="https://github-readme-streak-stats.herokuapp.com/?user=selcuk024&stroke=fff&background=0d1117&ring=ffff00&fire=ffff00&currStreakNum=fff&currStreakLabel=ffff00&sideNums=fff&sideLabels=ffff00&dates=fff&hide_border=true" /></a>
 </div>
