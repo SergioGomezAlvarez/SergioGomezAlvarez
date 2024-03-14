@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I'm Spanish**
 
-<h1 align="left">I'm a student Software Developer at ROC Nijmegen</h1>
+<p align="left">I'm a student Software Developer at ROC Nijmegen</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
