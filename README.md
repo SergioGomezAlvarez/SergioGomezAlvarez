@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **C#, React, Laravel**
 
-- 👨‍💻 All of my projects are available at [https://sergiogomezalvarez.github.io/SergioGomezAlvarez](https://sergiogomezalvarez.github.io/SergioGomezAlvarez)
+- 👨‍💻 All of my projects are available at [https://sergiogomezalvarez.github.io/SergioGomezAlvarez]
 
 - 💬 Ask me about **Anything**
 
