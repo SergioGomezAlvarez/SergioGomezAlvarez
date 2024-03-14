@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sergio Gomez Alvarez</h1>
 <h3 align="center">I'm a passionate developer from The Netherlands.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sergiogomsssss" alt="sergiogomsssss" /></a> </p>
-
 - 🔭 I’m currently working on [Blackjack](https://github.com/SergioGomezAlvarez/Blackjack)
 
 - 🌱 I’m currently learning **C#, React, Laravel**
