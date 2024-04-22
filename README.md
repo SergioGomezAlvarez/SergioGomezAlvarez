@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sergio Gomez Alvarez</h1>
 <h3 align="center">I'm a passionate developer from The Netherlands.</h3>
 
-- 🔭 I’m currently working on [Blackjack](https://github.com/SergioGomezAlvarez/Blackjack)
+- 🔭 I’m currently working on [Social Media](https://github.com/SergioGomezAlvarez)
 
-- 🌱 I’m currently learning **C#, React, Laravel**
+- 🌱 I’m currently learning **C#, React Native**
 
 - 👨‍💻 All of my projects are available at [https://sergiogomezalvarez.github.io/SergioGomezAlvarez]
 
