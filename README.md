@@ -9,11 +9,11 @@
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me **https://www.instagram.com/sergiogomez_a/**
+- 📫 How to reach me **sergioroctech@gmail.com**
 
-- ⚡ Fun fact **I'm Spanish**
+- ⚡ Fun fact **50% Spanish/50% Dutch**
 
-<p align="left">I'm a 17 year old Software Developer at ROC Nijmegen</p>
+<p align="left">I'm a 18 year old Software Developer at ROC Nijmegen</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
