@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sergio Gomez Alvarez</h1>
 <h3 align="center">I'm a passionate developer from The Netherlands.</h3>
 
-- 🔭 I’m currently working on [Portfolio](https://github.com/SergioGomezAlvarez/Portfolio.git)
+- 🔭 I’m currently working on [Representation](https://github.com/SergioGomezAlvarez/Representation.git)
 
 - 🌱 I’m currently learning **C#, React Native**
 
