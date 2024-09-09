@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Portfolio](https://github.com/SergioGomezAlvarez/Portfolio.git)
 
-- 🌱 I’m currently learning **C#, React Native**
+- 🌱 I’m currently learning **VueJS**
 
 - 👨‍💻 All of my projects are available at [https://sergiogomezalvarez.github.io/SergioGomezAlvarez]
 
