@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **VueJS**
 
-- 👨‍💻 All of my projects are available at [https://sergiogomezalvarez.github.io/SergioGomezAlvarez]
+- 👨‍💻 All of my projects are available at [https://sergiogomezalvarez.github.io/Portfolio]
 
 - 💬 Ask me about **Anything**
 
