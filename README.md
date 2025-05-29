@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **50% Spanish/50% Dutch**
 
-<p align="left">I'm a 18 year old Software Developer at ROC Nijmegen</p>
+<p align="left">I'm a 19 year old Software Developer at ROC Nijmegen</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
