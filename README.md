@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sergio Gomez Alvarez</h1>
 <h3 align="center">I'm a passionate developer from The Netherlands.</h3>
 
-- 🔭 I’m currently working on [Geoprofs](https://github.com/Selcuk024/GeoProfs.git)
-
-- 🌱 I’m currently learning **VueJS**
+- 🔭 I’m currently working on [Car Dealership](https://github.com/Selcuk024/CarDealer-Website.git)
 
 - 👨‍💻 All of my projects are available at [https://sergiogomezalvarez.github.io/Portfolio]
 
