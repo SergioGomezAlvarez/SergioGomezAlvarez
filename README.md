@@ -8,6 +8,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SergioGomezAlvarez&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+<a href="http://www.github.com/SergioGomezAlvarez"><img src="https://nirzak-streak-stats.vercel.app?user=SergioGomezAlvarez&theme=dark&hide_border=true)](https://git.io/streak-stats" alt="GitHub Streak" /></a>
+
 ###
 
 <div align="left">
